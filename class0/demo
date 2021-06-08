@@ -1,0 +1,20 @@
+/*class 0
+程序功能:点亮一个led灯
+author: Li Shuai
+Data: 2021-06-08
+*/
+
+
+#include "msp430g2553.h"
+
+void main( void )
+{
+  // Stop watchdog timer to prevent time out reset
+  WDTCTL = WDTPW + WDTHOLD;// 关闭看门狗，如果不关闭，系统就会不断复位
+  /*将P1.0设置为输出，P1DIR是P1口的方向寄存器*/
+  P1DIR |= BIT0;
+   /*将P1.0设置为高电平，点亮LED1*/
+  P1OUT |= BIT0;
+  while(1);
+
+}
