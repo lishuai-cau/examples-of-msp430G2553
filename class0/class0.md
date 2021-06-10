@@ -7,7 +7,9 @@
 iar for msp430 工具下载：https://pan.baidu.com/s/1y9afIzd4cUM3Z3LSJWfzXQ  提取码：9ihd 
 
 iar使用方法：https://pan.baidu.com/s/17iGhp3W2gNwekKmJUL5nXA  提取码：cuys 
+
 msp430中文使用手册：https://pan.baidu.com/s/1f7HqgA5StsEep5jpXgjsJA  提取码：2iyv 
+
 msp430端口引脚手册：https://pan.baidu.com/s/1Fto2xIvzK77hG_PqaRlaww  提取码：cwa2 
 
 
