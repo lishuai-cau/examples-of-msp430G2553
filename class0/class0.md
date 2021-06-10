@@ -21,4 +21,4 @@ msp430端口引脚手册：https://pan.baidu.com/s/1Fto2xIvzK77hG_PqaRlaww  提�
 
 #### （3）可以看到P1^0端口的led灯闪烁
 
-![58c3cd475192f77dea7973a25e0dba1a](D:\Googledownload\58c3cd475192f77dea7973a25e0dba1a.gif)
+![58c3cd475192f77dea7973a25e0dba1a](https://user-images.githubusercontent.com/85425167/121568294-2281e800-ca52-11eb-81b4-0f5840e9f558.gif)
